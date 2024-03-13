@@ -13,5 +13,5 @@ var album1 = make_album('Atif Aslam', 'Baarishein');
 console.log(album1);
 var album2 = make_album('DJ Snake', 'Magenta');
 console.log(album2);
-var album3 = make_album('Akon', 'Right Now', 1);
+var album3 = make_album('Akon', 'Right Now', 3);
 console.log(album3);

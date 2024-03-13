@@ -1,4 +1,8 @@
 ﻿# Assignment_45
+
+This repo contains the code to the 45 assignment questions that were provided to us as an assignment.
+
+Uncomment the code for some questions where needed. 
  
 Student details: 
 
@@ -8,8 +12,8 @@ Roll Number: 47471
 
 Class slot: 2PM-5PM | Saturday
 
-Discord User: quietopulence  |  Display name: DevXAhad
+# NOTE: Stay connected and up-to-date by following my social media profiles! Click the link below to access my Linktree and explore all my social channels:
 
-This repo contains the code to the 45 assignment questions that were provided to us.
+# [Linktree](https://linktr.ee/devxahad)
 
-# NOTE: The code is still being updated as the questions are not completed yet.
+# Thank you for your support and engagement!
