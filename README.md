@@ -4,7 +4,7 @@ This repo contains the code to the 45 assignment questions that were provided to
 
 Uncomment the code for some questions where needed. 
  
-Student details: 
+# Student details: 
 
 Name: Abdul Ahad
 
