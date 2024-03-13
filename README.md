@@ -12,8 +12,8 @@ Roll Number: 47471
 
 Class slot: 2PM-5PM | Saturday
 
-# NOTE: Stay connected and up-to-date by following my social media profiles! Click the link below to access my Linktree and explore all my social channels:
+# Stay connected and up-to-date by following my social media profiles! Click the link below to access my Linktree and explore all my social channels:
 
-# [Linktree](https://linktr.ee/devxahad)
+[Linktree](https://linktr.ee/devxahad)
 
 # Thank you for your support and engagement!
